@@ -1,31 +1,25 @@
 # 🏨✨ Atliq-Grands-Hospitality-Analysis-Python-Project
 
 # 🏢 Company Overview
-
-AtliQ Grands is a leading hotel chain operating across major Indian cities like  Mumbai, Delhi, Bangalore, and Hyderabad, with diverse hotel types such as AtliQ Seasons, AtliQ Exotica, AtliQ Bay, and AtliQ Palace.
-With over 20 years of experience in the hospitality industry, the company has recently faced declining revenue and market share, highlighting the need for data-driven strategies to enhance operational efficiency, maximize revenue, and maintain a competitive edge.
+AtliQ Grands is a leading hotel chain operating across major Indian cities like  Mumbai, Delhi, Bangalore and Hyderabad, with diverse hotel types such as AtliQ Seasons, AtliQ Exotica, AtliQ Bay and AtliQ Palace.
+With over 20 years of experience in the hospitality industry, the company has recently faced declining revenue and market share, highlighting the need for data-driven strategies to enhance operational efficiency, maximize revenue and maintain a competitive edge.
 
 # 🎯 Project Objective
-
-The primary objective of this project is to leverage data analytics on historical booking records from both the official website and third-party platforms. By analyzing patterns in bookings, revenue, occupancy, and customer behavior, the project aims to:
-
+The primary objective of this project is to leverage data analytics on historical booking records from both the official website and third-party platforms. By analyzing patterns in bookings, revenue, occupancy and customer behavior, the project aims to:
 - Identify high-performing and underperforming properties.
 - Optimize revenue generation across platforms and cities.
 - Inform strategic decision-making for marketing, pricing, and operational improvements.
 - Provide actionable insights to drive growth and competitiveness in the market.
-
 
 # ⚠️ Problem Statement
 AtliQ Grands is facing declining revenue and market share across its hotels. The challenge is to analyze booking data from both official and third-party platforms to uncover insights, optimize revenue, and support data-driven decisions.
 
 
 # 🛠️ Tools used
-
-- Python (pandas,matplotlib)
+- Python (pandas, matplotlib)
 - Jupyter Notebook
 
 # 📊 Datasets
-
 - dim_date.csv
 - dim_hotels.csv
 - dim_rooms.csv
@@ -34,7 +28,6 @@ AtliQ Grands is facing declining revenue and market share across its hotels. The
 - new_data_august.csv
 
 # 📈  Methodology
-
 - Dataset Review: Conducted a thorough examination of the dataset to understand its structure and identify inconsistencies or missing values.
 - Invalid Data Correction: Corrected or removed erroneous entries, such as negative guest counts, to ensure data reliability.
 - Outlier Handling: Detected and addressed outliers that could distort analysis.
@@ -69,21 +62,9 @@ Delhi hotels received the highest average customer rating (3.78), whereas Bangal
 A significant share of revenue comes from “Others” (40.9%), followed by MakeMyTrip (19.8%), pointing to the potential to diversify platform strategies and reduce reliance on a single channel.
 
 # Recommendations
-
 - Fix weak properties & cities: Improve underperformers like AtliQ Seasons and Bangalore hotels.
-
 - Leverage high-demand periods: Use dynamic pricing and promotions on weekends and peak months.
-
 - Diversify booking channels: Reduce reliance on “Others” and expand OTA/direct bookings.
-
 - Enhance guest experience: Boost satisfaction in low-rated locations through service and amenities improvements.
 
-
-  
-
-
-
-
-
-
-  
+----The End----
